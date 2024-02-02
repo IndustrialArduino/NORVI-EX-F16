@@ -11,5 +11,5 @@ Supports up to loads of 36V DC
 MCP23017T-E/SO Port Expander
 Address Configurable Over DIP Switch
 
-Datasheet:   https://drive.google.com/open?id=1Dc35c7c6zzY5ylsftrrr8Ek1iYmDdc50&usp=drive_fs
-User Guide:  https://drive.google.com/open?id=1hU1XlUQMccTwucCGc7EnpPvwcgvYyFL5&usp=drive_fs
+Datasheet:   https://norvi.lk/docs/norvi-ex-f16-datasheet/
+User Guide:  https://norvi.lk/docs/norvi-ex-f16_user-guide/
